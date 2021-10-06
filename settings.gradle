@@ -1,0 +1,2 @@
+include ':example'
+rootProject.name='filum-android-example.example'
